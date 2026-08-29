@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" role="img" aria-labelledby="title desc">
+  <title id="title">The Canodeck mark explained</title>
+  <desc id="desc">The upper arc is the canopy, the point and curved layer form a human, and the lower bar is the deck.</desc>
+  <rect width="720" height="260" rx="20" fill="#F7F4EC"/>
+
+  <g transform="translate(52 50) scale(1.25)">
+    <path fill="#102A43" d="M16 69a48 48 0 0 1 96 0h-12a36 36 0 0 0-72 0H16Z"/>
+    <path fill="#2F7F83" d="M26 78c12-6 25-9 38-9s26 3 38 9l-5 10c-10-5-21-7-33-7s-23 2-33 7l-5-10Z"/>
+    <path fill="#102A43" d="M24 94h80v12H24z"/>
+    <circle cx="64" cy="61" r="8" fill="#F2B544"/>
+  </g>
+
+  <g fill="none" stroke="#7691A8" stroke-width="2">
+    <path d="M180 105C245 105 242 54 310 54"/>
+    <path d="M151 136C235 136 240 130 310 130"/>
+    <path d="M180 181C245 181 242 206 310 206"/>
+  </g>
+  <g fill="#7691A8">
+    <circle cx="180" cy="105" r="4"/>
+    <circle cx="151" cy="136" r="4"/>
+    <circle cx="180" cy="181" r="4"/>
+  </g>
+
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="330" y="62" fill="#102A43" font-size="28" font-weight="600">Canopy</text>
+    <text x="330" y="88" fill="#475F73" font-size="17">a clear view above the work</text>
+
+    <text x="330" y="138" fill="#102A43" font-size="28" font-weight="600">Human</text>
+    <text x="330" y="164" fill="#475F73" font-size="17">attention, direction and control</text>
+
+    <text x="330" y="214" fill="#102A43" font-size="28" font-weight="600">Deck</text>
+    <text x="330" y="240" fill="#475F73" font-size="17">the layered working surface</text>
+  </g>
+</svg>

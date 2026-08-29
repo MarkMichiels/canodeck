@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 144" role="img" aria-labelledby="title desc">
+  <title id="title">Canodeck</title>
+  <desc id="desc">Canodeck wordmark with the recommended oversight aperture symbol.</desc>
+  <g transform="translate(8 8)">
+    <path fill="#102A43" d="M16 69a48 48 0 0 1 96 0h-12a36 36 0 0 0-72 0H16Z"/>
+    <path fill="#2F7F83" d="M26 78c12-6 25-9 38-9s26 3 38 9l-5 10c-10-5-21-7-33-7s-23 2-33 7l-5-10Z"/>
+    <path fill="#102A43" d="M24 94h80v12H24z"/>
+    <circle cx="64" cy="61" r="8" fill="#F2B544"/>
+  </g>
+  <text x="152" y="93" font-family="DejaVu Sans, Arial, sans-serif" font-size="64" font-weight="600" letter-spacing="-1"><tspan fill="#102A43">Cano</tspan><tspan fill="#2F7F83">deck</tspan></text>
+</svg>
